@@ -9,6 +9,6 @@
  1. Return calculation
  2. Standard deviation/variance
  3. Correlations/covariance
-###Portfolio statistics
+### Portfolio statistics
  1. Portfolio returns
  2. Portfolio standard deviation/variance
