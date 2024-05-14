@@ -12,3 +12,7 @@
 ### Portfolio statistics
  1. Portfolio returns
  2. Portfolio standard deviation/variance
+### Performance analysis
+ 1. Cumulative return
+ 2. High water mark
+ 3. Drawdown
